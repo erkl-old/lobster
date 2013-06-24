@@ -1,6 +1,6 @@
 { "name": "lobster"
 , "description": "very simple FIFO lock primitive"
-, "version": "0.0.0"
+, "version": "0.1.0"
 , "repository":
   { "type": "git"
   , "url": "http://github.com/erkl/lobster.git"
